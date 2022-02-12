@@ -59,6 +59,7 @@ const AngleComponent = () => {
                     y="10"
                     stroke="currentColor"
                     strokeOpacity="1"
+                    strokeWidth="0.25"
                   >
                     <circle
                       cx="10"
