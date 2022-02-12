@@ -58,15 +58,14 @@ const AngleComponent = () => {
                     x="10"
                     y="10"
                     stroke="currentColor"
-                    stroke-opacity="1"
-                    stroke-width="0.25"
+                    strokeOpacity="1"
                   >
                     <circle
                       cx="10"
                       cy="10"
                       r="9"
                       fill="#000000"
-                      fill-opacity="0.2"
+                      fillOpacity="0.2"
                       ref={circleRef}
                       onMouseMove={(e) => handleChangeAngle(e)}
                     ></circle>
@@ -76,9 +75,9 @@ const AngleComponent = () => {
                     x="50%"
                     y="60%"
                     fill="currentColor"
-                    dominant-baseline="middle"
-                    text-anchor="middle"
-                    font-size="1.5"
+                    dominantBaseline="middle"
+                    textAnchor="middle"
+                    fontSize="1.5"
                   >
                     {angle}º
                   </text>

@@ -21,7 +21,7 @@ const SideBar = () => {
             <div className="focus:outline-none focus:shadow-outline">
               <a
                 className="text-lg font-bold focus:outline-none focus:ring"
-                href="/"
+                href="#"
               >
                 <span className="py-4 ml-2 transition duration-1000 ease-in-out transform text-ultramarine hover:text-oyster focus:outline-none focus:text-ultramarine md:my-0">
                   Not Wicked Backgrounds
@@ -59,9 +59,9 @@ const SideBar = () => {
                 <path
                   d="M1 13L1 14C1 15.6569 2.34315 17 4 17L14 17C15.6569 17 17 15.6569 17 14L17 13M13 9L9 13M9 13L5 9M9 13L9 1"
                   stroke="currentColor"
-                  stroke-width="2"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
                 ></path>
               </svg>
 
@@ -92,9 +92,9 @@ const SideBar = () => {
                 stroke="currentColor"
               >
                 <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M8 5H6a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2v-1M8 5a2 2 0 002 2h2a2 2 0 002-2M8 5a2 2 0 012-2h2a2 2 0 012 2m0 0h2a2 2 0 012 2v3m2 4H10m0 0l3-3m-3 3l3 3"
                 ></path>
               </svg>
@@ -108,9 +108,9 @@ const SideBar = () => {
                 stroke="currentColor"
               >
                 <path
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  stroke-width="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  strokeWidth="2"
                   d="M15 15l-2 5L9 9l11 4-5 2zm0 0l5 5M7.188 2.239l.777 2.897M5.136 7.965l-2.898-.777M13.95 4.05l-2.122 2.122m-5.657 5.656l-2.12 2.122"
                 ></path>
               </svg>

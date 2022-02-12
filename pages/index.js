@@ -32,7 +32,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">QHD</div>
                     <div className="text-[9px] text-zinc-400">
@@ -43,7 +43,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">Ultra HD 4K</div>
                     <div className="text-[9px] text-zinc-400">
@@ -54,7 +54,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPhone 6,7,8,SE</div>
                     <div className="text-[9px] text-zinc-400">667 x 375 px</div>
@@ -63,7 +63,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPhone X,XS,12/13 mini</div>
                     <div className="text-[9px] text-zinc-400">812 x 375 px</div>
@@ -72,7 +72,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPhone 12/13</div>
                     <div className="text-[9px] text-zinc-400">844 x 390 px</div>
@@ -81,7 +81,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPhone XR,XS Max,11 Pro Max</div>
                     <div className="text-[9px] text-zinc-400">896 x 414 px</div>
@@ -90,7 +90,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPhone 12/13 Pro Max</div>
                     <div className="text-[9px] text-zinc-400">926 x 428 px</div>
@@ -99,7 +99,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPad 9th</div>
                     <div className="text-[9px] text-zinc-400">
@@ -110,7 +110,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPad Pro 12.9&quot; 5th</div>
                     <div className="text-[9px] text-zinc-400">
@@ -121,7 +121,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPad Pro 11&quot; 5th</div>
                     <div className="text-[9px] text-zinc-400">
@@ -132,7 +132,7 @@ export default function Home() {
                     className="px-3 py-2 border border-white cursor-pointer text-fiord hover:bg-[#445CFF] hover:text-white"
                     id="headlessui-listbox-option-undefined"
                     role="option"
-                    tabindex="-1"
+                    tabIndex="-1"
                   >
                     <div className="truncate">iPad Air 4th</div>
                     <div className="text-[9px] text-zinc-400">
